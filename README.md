@@ -1,4 +1,4 @@
-# Office desk Booking Application
+# Book your space - An Open Source Application
 <img src="https://github.com/carminemnc/officedeskbooking/blob/main/Desk%20booking%20(2).gif?raw=true" width="250" height="250">
 
 Forking [This idea](https://github.com/devoteam-g-cloud/Office-Desk-Booking-with-Apps-Script) i made up some changes to suits my needs.
