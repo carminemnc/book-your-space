@@ -3,5 +3,5 @@
 
 Forking [This idea](https://github.com/devoteam-g-cloud/Office-Desk-Booking-with-Apps-Script) i made up some changes to suits my needs.
 
-[Here you can find the script](https://script.google.com/home/projects/1liA2JnkF1mC53L19v2ZvX25FHYAGa8dPpl2esbygBhzUGwqJshZDYthb), take freely a copy.
+[Here you can find the script](https://script.google.com/home/projects/1t4ZIZ6ycNl_eFugM__CVbttCiOh0aseu1NUhjj8VUkfQw6_Syh34rCuK/edit), take freely a copy.
 
