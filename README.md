@@ -1,7 +1,7 @@
 # Book your space - An Open Source Application
 <img src="https://github.com/carminemnc/imgs/blob/main/book-your-space.gif?raw=true" width="250" height="250">
 
-Forking [This idea](https://github.com/devoteam-g-cloud/Office-Desk-Booking-with-Apps-Script) i made up some changes to suits my needs, allowing for the same user to book spaces on two weeks and displaying users name.
+Forking [this idea](https://github.com/devoteam-g-cloud/Office-Desk-Booking-with-Apps-Script) i made up some changes to suits my needs, allowing for the same user to book spaces on two weeks and displaying users name.
 
 [Here](https://script.google.com/macros/s/AKfycbw7IDvU8-UN427sO_u5RLYf8kSGlOolFlrlPA_dk1Ha4H2MgACJn8H8j79t_YfKS1sJ/exec) a live version of the application.
 
