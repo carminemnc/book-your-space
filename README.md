@@ -5,7 +5,7 @@ Forking [this idea](https://github.com/devoteam-g-cloud/Office-Desk-Booking-with
 
 [Here](https://script.google.com/macros/s/AKfycbw7IDvU8-UN427sO_u5RLYf8kSGlOolFlrlPA_dk1Ha4H2MgACJn8H8j79t_YfKS1sJ/exec) a live version of the application.
 
-[Here you can find the script](https://script.google.com/home/projects/1t4ZIZ6ycNl_eFugM__CVbttCiOh0aseu1NUhjj8VUkfQw6_Syh34rCuK/edit), take freely a copy.
+[Here you can find the script](https://script.google.com/home/projects/12VbFZv2Shpnam4G04BiCxsW5403jJBHFXC18PMEfaZhNiIujAW89ecri/edit), take freely a copy.
 
 # How it works
 
